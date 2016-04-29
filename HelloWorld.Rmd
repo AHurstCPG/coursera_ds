@@ -1,0 +1,12 @@
+---
+title: "HelloWorld.md"
+author: "Anne"
+date: "April 27, 2016"
+output: pdf_document
+---
+
+
+```{r, echo=TRUE}
+## This is a markdown file
+```
+
